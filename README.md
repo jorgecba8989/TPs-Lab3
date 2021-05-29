@@ -13,7 +13,8 @@ peticiones que se vayan a realizar en el archivo .py:
 	* [Driver Sql para Windows](https://docs.microsoft.com/en-us/sql/connect/odbc/windows/system-requirements-installation-and-driver-files?view=sql-server-ver15#installing-microsoft-odbc-driver-for-sql-server) 
 	* [Driver Sql para Linux](https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-ver15) 
 
-Una vez bajado, se lo instala dandole todo a siguiente y siguiente....
+   Una vez bajado, se lo instala dandole todo a siguiente y siguiente....
+
 5. Configuramos el archivo .py para obtener acceso a los registros a la 
 base de datos, es nuestro caso usaremos SQL SERVER:
 
