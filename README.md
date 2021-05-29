@@ -13,10 +13,8 @@ peticiones que se vayan a realizar en el archivo .py:
 	* [Driver Sql para Windows](https://docs.microsoft.com/en-us/sql/connect/odbc/windows/system-requirements-installation-and-driver-files?view=sql-server-ver15#installing-microsoft-odbc-driver-for-sql-server) 
 	* [Driver Sql para Linux](https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-ver15) 
 
-   Una vez bajado, se lo instala dandole todo a siguiente y siguiente....
-
-5. Configuramos el archivo .py para obtener acceso a los registros a la 
-base de datos, es nuestro caso usaremos SQL SERVER:
+5. Configurar el archivo .py para obtener acceso a los registros a la 
+base de datos, en este caso se usara SQL SERVER como ejemplo:
 
 ![](img/config.png "Configuracion del archivo .py")
 
@@ -33,3 +31,6 @@ En **conn.cursor()** va obtiendo los datos del registro, **cursor.execute()**
 se puede realizar la consulta, insercion, eliminacion o actualizacion de
 un registro de la tabla de la base de datos.
 Y el for, en caso de haber mas de un registro, los muestre a todos.
+
+NOTA: En caso necesario se le adjuntara un link con la documentacion de 
+la libraria: [Documentacion](https://github.com/mkleehammer/pyodbc/wiki)
