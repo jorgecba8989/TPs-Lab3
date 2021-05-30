@@ -1,4 +1,4 @@
-# PYODBC
+# Libreria PYODBC
 ### Que es la libreria "Pyodbc"?
 Es un módulo de Python de código abierto que simplifica el acceso a 
 las bases de datos ODBC desde Python, implementando el uso de la 

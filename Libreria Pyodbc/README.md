@@ -1,4 +1,9 @@
-# TPs-Lab3
+# Libreria PYODBC
+### Que es la libreria "Pyodbc"?
+Es un módulo de Python de código abierto que simplifica el acceso a 
+las bases de datos ODBC desde Python, implementando el uso de la 
+DB API 2.0 de una forma conveniente para Python. pyodbc también es 
+considerado como un controlador SQL para Python.
 ### Uso de libreria "Pyodbc"
 1. Verificar si tiene instalado Python en su Pc, en caso de no tenerlo,
    le dejo el link: [Download Python](https://www.python.org/downloads)
