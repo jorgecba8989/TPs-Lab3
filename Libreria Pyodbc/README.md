@@ -37,5 +37,5 @@ se puede realizar la consulta, insercion, eliminacion o actualizacion de
 un registro de la tabla de la base de datos.
 Y el for, en caso de haber mas de un registro, los muestre a todos.
 
-NOTA: En caso necesario se le adjuntara un link con la documentacion de 
+*NOTA:* En caso necesario se le adjuntara un link con la documentacion de 
 la libraria: [Documentacion](https://github.com/mkleehammer/pyodbc/wiki)
