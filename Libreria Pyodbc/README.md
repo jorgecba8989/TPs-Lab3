@@ -39,3 +39,7 @@ Y el for, en caso de haber mas de un registro, los muestre a todos.
 
 *NOTA:* En caso necesario se le adjuntara un link con la documentacion de 
 la libraria: [Documentacion](https://github.com/mkleehammer/pyodbc/wiki)
+*NOTA:* Se le adjuntara el un txt, requiriments, donde tendra la libreria incluida
+y para instarlo en este ejemplo o en algun otro proyecto que necesite hacer 
+la comunicacion a una base de datos, es cuestion de copiar y pegar el txt en su
+proyecto y en la terminal de VS Code poner **pip install -r requirements.txt**
