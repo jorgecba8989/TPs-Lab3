@@ -38,7 +38,7 @@ un registro de la tabla de la base de datos.
 Y el for, en caso de haber mas de un registro, los muestre a todos.
 
 *NOTA:* En caso necesario se le adjuntara un link con la documentacion de 
-la libraria: [Documentacion](https://github.com/mkleehammer/pyodbc/wiki)
+la libraria Pyodbc: [Documentacion](https://github.com/mkleehammer/pyodbc/wiki)
 
 *NOTA:* Se le adjuntara el un txt, requiriments, donde tendra la libreria incluida
 y para instarlo en este ejemplo o en algun otro proyecto que necesite hacer 
