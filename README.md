@@ -1,3 +1,4 @@
 # Tps Laboratorio 3
 ### * Libreria pyodbc
-### * Ejercicios python (Funciones, Poo y Tuplas-Diccionarios) 
+### * Ejercicios python V1 (Listas y Strings)
+### * Ejercicios python V2 (Funciones, Poo y Tuplas-Diccionarios) 
