@@ -10,8 +10,7 @@ from testing import *
 #         return False
 
 if __name__ == "__main__":
-    #casesDeaths()
-    ciclo()
+    run()
     
 
 
