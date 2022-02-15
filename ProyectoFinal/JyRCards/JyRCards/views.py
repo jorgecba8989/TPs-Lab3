@@ -1,4 +1,5 @@
 from django.http import HttpResponse
+from django.shortcuts import render
 
 from django.template import Template, Context
 
@@ -6,6 +7,8 @@ def saludo(request):
     documento="<html><body><div class='container'><h2>hola mundoooo</h2></div></body></html>"
     return HttpResponse(documento)
 
+# def main_page(request):
+#     return render(request, 'index.html')
 
 def contenidoHTML(request):
     contenido = open("E:/Documentos/Lab3/TPs-Lab3/ProyectoFinal/JyRCards/JyRCards/templates/index.html")
