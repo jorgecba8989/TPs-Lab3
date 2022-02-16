@@ -18,6 +18,7 @@ from django.contrib import admin
 from django.urls import path
 from django.conf.urls.static import static
 
+
 from JyRCards.views import contenidoHTML
 from JyRCards.templates import *
 
